@@ -91,7 +91,7 @@ You can use Terminus to test a new set of changes by deploying code from develop
 
 Run the command below to deploy the code:
 
-### terminus env:deploy my-site.test --sync-content --note="Deploy core and contrib 
+### terminus env:deploy my-site.test --sync-content --note="Deploy core and contrib" 
 
 
 For more information:-
